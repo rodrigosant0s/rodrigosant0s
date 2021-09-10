@@ -1,17 +1,15 @@
- ### Olá! eu sou o Rodrigo Santos👋
+<h2 align="center">Olá! eu sou o Rodrigo Santos👋<h2>
 
  <h3> 👀 Sobre mim </h3>
 
-- 📖 Estudando na escola **Eeep Flavio Gomes Granjeiro**
-- 🔭 Atualmente estudando:  **Node, Angular, & Typescript**
-
- <div>
+<div align="center"> 📖Estudante de Ensino Médio pela EEEP Flávio Gomes Granjeiro <div>
+ 
   <a href="https://github.com/rodrigosant0s">
    
-  <br>
+  <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosant0s&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  </br> <p></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosant0s&layout=compact&langs_count=7&theme=onedark"/>
+   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosant0s&layout=compact&langs_count=7&theme=onedark"/>
 </div>
  
  

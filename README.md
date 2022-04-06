@@ -1,4 +1,4 @@
-<h2 align="center">Olá! eu sou o Rodrigo Santos👋<h2>
+<h2 align="center">Olá! eu sou Rodrigo Santos👋<h2>
      
  <h3 align="center">Contato</h3>  
    

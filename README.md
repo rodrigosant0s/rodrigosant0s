@@ -17,15 +17,4 @@
   <img align="center" alt="Icon-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icon-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-   <img align="center" alt="Icon-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg"> 
-</div>
-      
- <br>     
-   
- <div align="center">
-    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosant0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <br><p></p>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosant0s&layout=compact&langs_count=7&theme=default"/>
-    
 </div>

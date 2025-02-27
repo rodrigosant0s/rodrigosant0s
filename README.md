@@ -1,4 +1,9 @@
-<h1 align="center">Olá! me chamo Rodrigo Santos👋<h1>
+
+ <h1 align="left">Olá! me chamo Rodrigo Santos👋</h1>
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Estou estudando atualmente **.NET** e **Backend-development**
+ 
  <h3 align="center">Stack</h3>  
    
  <div align="center">
@@ -11,6 +16,7 @@
 </div>
 
 <br/>
+<div></div>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rodrigosant0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

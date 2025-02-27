@@ -1,4 +1,3 @@
-
  <h1 align="left">Olá! me chamo Rodrigo Santos👋</h1>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas

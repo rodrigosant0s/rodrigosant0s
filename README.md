@@ -9,7 +9,9 @@
   <img align="center" alt="Icon-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icon-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-</div>       
+</div>
+
+<br/>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rodrigosant0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

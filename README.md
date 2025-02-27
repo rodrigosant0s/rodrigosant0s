@@ -1,5 +1,4 @@
-<h2 align="center">Olá! me chamo Rodrigo Santos👋<h2>
-     
+<h1 align="center">Olá! me chamo Rodrigo Santos👋<h1>
  <h3 align="center">Stack</h3>  
    
  <div align="center">
@@ -21,6 +20,7 @@
 <h3 align="center">Contatos</h3>  
    
 <div align="center">
-  <a href="mailto: rodrigosantosfs.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rodrigosantosfs.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/rodrigosant0s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://github.com/rodrigosant0s/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>    
+</div>

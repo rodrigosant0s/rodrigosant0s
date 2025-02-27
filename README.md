@@ -15,12 +15,10 @@
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rodrigosant0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigosant0s&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-     
-<br>
-     
-<h3 align="center">Contato</h3>  
+        
+<h3 align="center">Contatos</h3>  
    
 <div align="center">
-  <a href="mailto: rodrigosantosfs.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="mailto: rodrigosantosfs.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/rodrigosant0s/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>    

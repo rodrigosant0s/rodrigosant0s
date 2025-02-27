@@ -10,16 +10,11 @@
   <img align="center" alt="Icon-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icon-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>       
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rodrigosant0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigosant0s&layout=compact&langs_count=7&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rodrigosant0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigosant0s&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
      
 <br>
      
